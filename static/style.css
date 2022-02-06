@@ -1,0 +1,18 @@
+#main{
+    background-color: rgb(77, 74, 74);
+    width: 800px;
+    height: 600px;
+    border-radius: 10%;
+    padding: 80px;
+    margin: auto;
+}
+*{
+    color: white;
+}
+h2{
+    color: yellow;
+    font-weight: bold;
+}
+button{
+    margin-top: 5px;
+}
